@@ -12,22 +12,22 @@
 </p>
 </p>
 # Discord Bot
-<br>
+
 ## Information
-<br>
+
 #### This script is open to anyone! If you want to add commands, please contribute / pull request! Buying and selling scripts is prohibited!
-<br>
+
 ## Contact
-<br>
+
 If you find some bugs please contact the WhatsApp number on Contact
-<br>
+
 - [WHATSAPP](https://wa.me/628881372457)
-<br>
+
 ## Getting Started
-<br>
+
 ### This project require NodeJS v14.
 This is a Bot Group Type, so you have to enter the bot into a group in order to fully use the command!
-<br>
+
 # Install Node Modules
 ```npm i discord.js
 npm i cpu-stat
@@ -43,6 +43,6 @@ npm i tech-tip-cyber
 npm i youtube-sr
 npm i ytdl-core
 ```
-<br>
+
 # Run Bot Nya
 ```node index.js```
